@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Git_Banner.png" alt="Professional Banner">
+  <img src="assets/manu0130-github-banner.png" alt="Professional Banner">
 </p>
 
 <div id="user-content-toc">
