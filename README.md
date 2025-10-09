@@ -22,7 +22,7 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Manu0130" target="_blank">
+  <a href="https://github.com/manujayagunathilaka" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:your-email@example.com" target="_blank">
@@ -138,17 +138,17 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manu0130&show_icons=true&theme=github_dark&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manu0130&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manujayagunathilaka&show_icons=true&theme=github_dark&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manujayagunathilaka&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Top Languages" width="49%"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manu0130&label=PROFILE%20VISITORS&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=manujayagunathilaka&label=PROFILE%20VISITORS&style=flat-square&color=blueviolet" alt="Profile Views"/>
   
-  <a href="https://github.com/Manu0130" target="_blank">
-    <img src="https://img.shields.io/github/followers/Manu0130?label=Follow&style=social" alt="GitHub Followers"/>
+  <a href="https://github.com/manujayagunathilaka" target="_blank">
+    <img src="https://img.shields.io/github/followers/manujayagunathilaka?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
   
   <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
